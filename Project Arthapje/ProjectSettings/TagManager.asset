@@ -3,12 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Floor
+  - Environment
+  - Enemy
+  - Punch
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Game Elements
   - Water
   - UI
   - 
